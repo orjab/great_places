@@ -12,7 +12,7 @@
         android:label="great_places"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDvk_E5ssP1aCtIiHe7ih9TiFOdtBGAjCE"/>
+            android:value="CHANGE_ME"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
